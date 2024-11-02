@@ -2,7 +2,7 @@
 - 👀 I’m interested in,
   Coding of all kinds, gaming and music!
 - 🌱 I’m currently learning,
-  C++
+  C++, HTML, CSS
 - 📫 How to reach me,
   Mail: Oliver99@live.se
 - ⚡ Fun fact:
